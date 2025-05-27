@@ -736,7 +736,7 @@ Begin
                      End;
                #65 : cor_atual:=Definir_Cor('F'); { F7 => muda cor da letra }
                #66 : cor_fundo:=Definir_Cor('B'); { F8 => muda cor de fundo }
-                { Else Writeln(Ord(tecla)); { Reabilitar se quiser saber codigos de tecla novos }
+                // Else Writeln(Ord(tecla)); { Reabilitar se quiser saber codigos de tecla novos }
              End;
            End;
       #8  : Begin  { Delete }
