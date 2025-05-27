@@ -33,7 +33,7 @@ Originalmente concebido para sistemas **BLIS COBOL**, o EDITEL foi adaptado para
 ## 📦 Arquivos Disponíveis
 
 - [`EDITEL.EXE`](https://sourceforge.net/projects/editel/files/Version%201.0/EDITEL.EXE/download?use_mirror=master) — Executável principal (distribuído pelo sourceforge).
-- [`EDITEL`](https://sourceforge.net/projects/editel/files/Version%201.0/EDITEL.EXE/download?use_mirror=master) — Binário principal (compilado no Debian Linux).
+- [`EDITEL`](https://github.com/fmarqueseti/editel/blob/main/EDITEL) — Binário principal (compilado no Debian Linux).
 - [`EDITEL.PAS`](https://github.com/fmarqueseti/editel/blob/main/EDITEL.PAS) — Código-fonte em Turbo Pascal.
 - [`TELA.SCR`](https://github.com/fmarqueseti/editel/blob/main/TELA.SCR) — Arquivo de layout de tela exemplo.
 - [`TELA.CPY`](https://github.com/fmarqueseti/editel/blob/main/TELA.CPY) — Código COBOL gerado com base no layout.

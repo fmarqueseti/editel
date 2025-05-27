@@ -35,7 +35,7 @@ Originally designed for **BLIS COBOL**, the tool has been adapted for use with *
 ## 📦 Available Files
 
 - [`EDITEL.EXE`](https://sourceforge.net/projects/editel/files/Version%201.0/EDITEL.EXE/download?use_mirror=master) — Main executable (Windows/MS-DOS build).
-- [`EDITEL`](https://sourceforge.net/projects/editel/files/Version%201.0/EDITEL.EXE/download?use_mirror=master) — Linux binary (compiled on Debian).
+- [`EDITEL`](https://github.com/fmarqueseti/editel/blob/main/EDITEL) — Linux binary (compiled on Debian).
 - [`EDITEL.PAS`](https://github.com/fmarqueseti/editel/blob/main/EDITEL.PAS) — Turbo Pascal source code.
 - [`TELA.SCR`](https://github.com/fmarqueseti/editel/blob/main/TELA.SCR) — Sample screen layout file.
 - [`TELA.CPY`](https://github.com/fmarqueseti/editel/blob/main/TELA.CPY) — COBOL copybook generated from the layout.
